@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "93ZSqrIj3o2aKFkN1UmGSHWa+8TeO6rpLYdswgWsq8pEKr/ZMUvTQnLeBO/bv6RcJgRtvHEbUhu9hr8fIvUL4A==",
+  "dgSpecHash": "OGbEtpC2cRpOKhxdJTOd5WZSlrH6jjE+Jg1Pf2tLBlpAj/W4GMgO1WzsmkY46E3SMeDMNj17vSYMRsstKpqxLg==",
   "success": true,
-  "projectFilePath": "D:\\TEMP\\ConsoleApp1\\ConsoleApp1\\CatAndMouse.csproj",
+  "projectFilePath": "D:\\GitHub\\Hacker Rank\\CatAndMouse\\ConsoleApp1\\CatAndMouse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

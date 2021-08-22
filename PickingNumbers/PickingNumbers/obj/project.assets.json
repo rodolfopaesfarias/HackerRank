@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Hacker Rank\\CatAndMouse\\ConsoleApp1\\CatAndMouse.csproj",
-      "projectName": "CatAndMouse",
-      "projectPath": "D:\\GitHub\\Hacker Rank\\CatAndMouse\\ConsoleApp1\\CatAndMouse.csproj",
+      "projectUniqueName": "D:\\GitHub\\Hacker Rank\\PickingNumbers\\PickingNumbers\\PickingNumbers.csproj",
+      "projectName": "PickingNumbers",
+      "projectPath": "D:\\GitHub\\Hacker Rank\\PickingNumbers\\PickingNumbers\\PickingNumbers.csproj",
       "packagesPath": "C:\\Users\\movtech\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Hacker Rank\\CatAndMouse\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\GitHub\\Hacker Rank\\PickingNumbers\\PickingNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\movtech\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.exe
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.deps.json
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.runtimeconfig.json
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.dll
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\bin\Debug\netcoreapp3.1\PickingNumbers.pdb
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.dll
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.pdb
+D:\GitHub\Hacker Rank\PickingNumbers\PickingNumbers\obj\Debug\netcoreapp3.1\PickingNumbers.genruntimeconfig.cache
