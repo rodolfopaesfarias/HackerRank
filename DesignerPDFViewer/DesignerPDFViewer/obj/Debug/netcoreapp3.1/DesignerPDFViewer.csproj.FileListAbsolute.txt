@@ -1,0 +1,14 @@
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.exe
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.deps.json
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.runtimeconfig.json
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.dll
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\netcoreapp3.1\DesignerPDFViewer.pdb
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.csproj.AssemblyReference.cache
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.dll
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.pdb
+D:\GitHub\Hacker Rank\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\netcoreapp3.1\DesignerPDFViewer.genruntimeconfig.cache
