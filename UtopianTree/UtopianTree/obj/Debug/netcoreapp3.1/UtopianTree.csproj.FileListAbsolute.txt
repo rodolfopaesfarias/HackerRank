@@ -1,0 +1,14 @@
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.exe
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.deps.json
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.runtimeconfig.json
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.dll
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\bin\Debug\netcoreapp3.1\UtopianTree.pdb
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.csproj.AssemblyReference.cache
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.dll
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.pdb
+D:\GitHub\Hacker Rank\UtopianTree\UtopianTree\obj\Debug\netcoreapp3.1\UtopianTree.genruntimeconfig.cache
