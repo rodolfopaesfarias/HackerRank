@@ -1,0 +1,14 @@
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.exe
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.deps.json
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.runtimeconfig.json
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.dll
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\bin\Debug\netcoreapp3.1\AngryProfessor.pdb
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.csproj.AssemblyReference.cache
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.dll
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.pdb
+D:\GitHub\Hacker Rank\AngryProfessor\AngryProfessor\AngryProfessor\obj\Debug\netcoreapp3.1\AngryProfessor.genruntimeconfig.cache

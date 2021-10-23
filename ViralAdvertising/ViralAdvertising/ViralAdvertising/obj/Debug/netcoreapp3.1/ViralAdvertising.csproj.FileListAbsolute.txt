@@ -1,0 +1,13 @@
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.exe
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.deps.json
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.runtimeconfig.json
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.dll
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\bin\Debug\netcoreapp3.1\ViralAdvertising.pdb
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.dll
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.pdb
+D:\GitHub\Hacker Rank\ViralAdvertising\ViralAdvertising\ViralAdvertising\obj\Debug\netcoreapp3.1\ViralAdvertising.genruntimeconfig.cache

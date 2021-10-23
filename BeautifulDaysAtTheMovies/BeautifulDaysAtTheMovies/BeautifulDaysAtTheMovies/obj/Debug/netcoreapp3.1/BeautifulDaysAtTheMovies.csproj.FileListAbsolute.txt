@@ -1,0 +1,14 @@
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.exe
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.deps.json
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.runtimeconfig.json
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.runtimeconfig.dev.json
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.dll
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.pdb
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.AssemblyInfoInputs.cache
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.AssemblyInfo.cs
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.csproj.CoreCompileInputs.cache
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.dll
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.pdb
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.genruntimeconfig.cache
+D:\GitHub\Hacker Rank\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\netcoreapp3.1\BeautifulDaysAtTheMovies.csproj.AssemblyReference.cache
